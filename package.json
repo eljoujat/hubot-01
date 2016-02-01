@@ -17,7 +17,8 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-skype-web": "^0.9.12"
+    "hubot-skype-web": "^0.9.12",
+    "hubot-gtalk": ">= 0.0.1"
   },
   "engines": {
     "node": "0.10.x"
